@@ -8,3 +8,8 @@ lab**/*
 pass.token
 teey
 hackaton
+1_mini-libc/.gitignore
+2_memory-allocator/.gitignore
+3_thread-pool-graph/.gitignore
+4_mini-shell/.gitignore
+5_web-server-async/.gitignore
