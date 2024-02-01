@@ -1,4 +1,5 @@
 # Operating Systems Related Projects
+Check out [the official course website](https://cs-pub-ro.github.io/operating-systems/) @ Polytehnica University of Bucharest
 
 1. Mini Libc
 2. Memory Allocator
