@@ -7,6 +7,11 @@ Operating Systems Related Projects
 5. Web Server for file retrieval using HTTP requests
 6. Lambda Server that executes function in dynamic libraries on request
 
+## Running 1-4
+
+Check out the readme in each of the folders.
+Hint: Use make check to test if everything works fine!
+
 ## Running Web Server
 
 - Go to 5_web-server-async
