@@ -1,6 +1,0 @@
-DisplayStructure
-UseParser
-CUseParser
-parser.yy.c
-parser.tab.h
-parser.tab.c
