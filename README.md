@@ -5,7 +5,7 @@ Check out [the official course website](https://cs-pub-ro.github.io/operating-sy
 2. Memory Allocator
 3. Thread Pool
 4. Mini Shell using syscalls
-5. Web Server for file retrieval using HTTP requests
+5. Async Web Server for file retrieval using HTTP requests
 6. Lambda Server that executes function in dynamic libraries on request
 
 ## Running 1-4
